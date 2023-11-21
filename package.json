@@ -1,0 +1,18 @@
+{
+  "name": "Video_Monney_Graber_DGHACK",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Thomega35/Video_Monney_Graber_DGHACK.git",
+  "author": "Thomega <thomega35@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.9.2"
+  },
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "tesseract.js": "^5.0.3",
+    "tesseract.ts": "^1.1.2"
+  }
+}
